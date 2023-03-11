@@ -44,11 +44,11 @@
         </div>
         <div class="md:w-[60%]">
             <p class="font-bold text-[25px] text-white font-['Poppins']">Not convinced on buying the course?</p>
-            <p class="text-[#8090ae] font-medium text-[15px] font-['Inter']">We assume you’re here because of one of two reasons. A) you’re undecided on buying the course or B) we pinged you in <a href="https://discord.com/channels/397526357191557121/397528827657453569" class="text-[#B3C0D8]">#news</a> to show off our cool new site. Either way, take a read of what people who own the course have to say.</p>
+            <p class="text-[#8090ae] font-medium text-[15px] font-['Inter']">We assume you’re here because of one of two reasons. A) you’re undecided on buying the course or B) we pinged you in <a target="_blank" href="https://discord.com/channels/397526357191557121/397528827657453569" class="text-[#B3C0D8]">#news</a> to show off our cool new site. Either way, take a read of what people who own the course have to say.</p>
         </div>
         <div class="flex-col flex gap-2 md:w-[60%] mt-10">
             <p class="font-bold text-[22px] text-[#F0BF62] font-['Poppins']">Got something to add?</p>
-            <p class="text-[#8090ae] font-medium text-[15px] font-['Inter']">If you want to leave a review and have it featured here, whack it in <a href="https://discord.com/channels/397526357191557121/925717319974535178" class="text-[#B3C0D8]">#vouches</a> or leave a review on <a href="https://learnspigot.com" class="text-[#B3C0D8]">Udemy</a> so we can add it in. </p>
+            <p class="text-[#8090ae] font-medium text-[15px] font-['Inter']">If you want to leave a review and have it featured here, whack it in <a target="_blank" href="https://discord.com/channels/397526357191557121/925717319974535178" class="text-[#B3C0D8]">#vouches</a> or leave a review on <a target="_blank" href="https://learnspigot.com" class="text-[#B3C0D8]">Udemy</a> so we can add it in. </p>
         </div>
         <a href="https://learnspigot.com/discord" target="_blank">
             <button class="flex bg-[#2D3748] w-fit py-3 px-8 items-center gap-3 rounded-[14px] mb-20 mt-8">
