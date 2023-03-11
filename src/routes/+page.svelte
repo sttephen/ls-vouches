@@ -61,7 +61,7 @@
         {#each vouchData as columnData}
             <div class="flex flex-col gap-5">
                 {#each columnData as vouch}
-                    <Lazy height={200} offset={150} onload={onload} class="min-w-[300px]">
+                    <Lazy offset={150} onload={onload} class="min-w-[300px]">
                         <div class="rounded-[15px] bg-[#2D3748] p-4">
                             <div class="flex items-center gap-3.5">
                                 {#if vouch.icon != "null"}
